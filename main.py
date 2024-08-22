@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import requests
 
-API_KEY = "37ad2de8c3b542ed98a100234242008"
+API_KEY = "YOUR_API_KEY"
 URL = "https://api.weatherapi.com/v1/current.json?"
 
 win = Tk()
