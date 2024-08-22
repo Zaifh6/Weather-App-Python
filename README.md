@@ -1,5 +1,11 @@
 # Weather App
 
+![image](https://github.com/user-attachments/assets/da12ab67-97a5-4eca-ba97-c9230ec4e377)
+![image](https://github.com/user-attachments/assets/8d490752-75d9-468f-9d6e-8c0d1e9869f8)
+![image](https://github.com/user-attachments/assets/f7bebc13-e8ee-4536-a29b-057cc68c1a28)
+
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
